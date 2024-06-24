@@ -38,7 +38,8 @@
                 "ms-azuretools.vscode-docker",
                 // TypeScript
                 "dbaeumer.vscode-eslint",
-                "xabikos.JavaScriptSnippets"
+                "xabikos.JavaScriptSnippets",
+                "Orta.vscode-jest"
             ],
             "settings": {
                 "amazonQ.shareContentWithAWS": false,
@@ -48,6 +49,7 @@
                 "editor.renderWhitespace": "all",
                 "git.autofetch": true,
                 "git.pruneOnFetch": true,
+                "jest.runMode": "on-demand",
                 "workbench.iconTheme": "material-icon-theme"
             }
         }
